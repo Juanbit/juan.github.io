@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+Most of my papers are listed here, see also my [https://scholar.google.com/citations?hl=zh-CN&user=kd6Ikz4AAAAJ Google Scholar] or [https://www.researchgate.net/profile/Juan_Li46?ev=brs_highl ResearchGate] profile. Please contact me if you need further information.
+
+== Journal Papers
+. J. Li, P. M. Pardalos, B. Xin, J. Chen. [https://link.springer.com/article/10.1007/s00500-019-03824-8 The bi-objective critical node detection problem with minimum pairwise connectivity and cost: theory and algorithms]. Soft Computing, 2019. \[[papers/juan2019biCNDP.pdf pdf]\]
+. J. Li, B. Xin, J. Chen, P. M. Pardalos. [https://ieeexplore.ieee.org/abstract/document/8566140/ Noise-Tolerant Techniques for Decomposition-Based Multiobjective Evolutionary Algorithms]. IEEE transactions on Cybernetics. 2018. \[[papers/juan2018NTDMOEA.pdf pdf]\] \[[codes/NT-DMOEA-CODE.zip CODE]\]
+. J. Chen, J. Li, B. Xin. [https://ieeexplore.ieee.org/abstract/document/7858787 DMOEA-\&epsilon;C: Decomposition-Based Multiobjective Evolutionary Algorithm With the \&epsilon;-Constraint Framework]. IEEE Transactions on Evolutionary Computation, 2017, 21(5): 714-730. \[[papers/juan2017DMOEAEC.pdf pdf]\] \[[codes/DMOEA-EC-CODE.zip CODE]\]
+
+== Conference Papers
+. J. Li, J. Chen, B. Xin, L. Chen. [https://ieeexplore.ieee.org/abstract/document/7969344 Efficient multi-objective evolutionary algorithms for solving the multi-stage weapon target assignment problem: A comparison study]. 2017 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2017: 435-442. \[[papers/2017CEC.pdf pdf]\] \[[codes/MWTA-CODE.zip CODE]\]
+. L. Chen, B. Xin, J. Chen, J. Li. [https://ieeexplore.ieee.org/abstract/document/7969370/ A virtual-decision-maker library considering personalities and dynamically changing preference structures for interactive multiobjective optimization]. 2017 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2017: 636-641. \[[papers/2017CEC-lu.pdf pdf]\]
+. J. Li, J. Chen, B. Xin, L. Dou, Z. Peng. [https://ieeexplore.ieee.org/abstract/document/7744423/ Solving the uncertain multi-objective multi-stage weapon target assignment problem via MOEA/D-AWA]. 2016 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2016: 4934-4941. \[[papers/2016CEC.pdf pdf]\]
+. J. Li, J. Chen, B. Xin. [https://ieeexplore.ieee.org/abstract/document/7260033/ Efficiently solving multi-objective dynamic weapon-target assignment problems by NSGA-II]. 2015 34th Chinese Control Conference (CCC). IEEE, 2015: 2556-2561. \[[papers/2015CCC.pdf pdf]\]
+. J. Li, J. Chen, B. Xin, L. Dou. [https://ieeexplore.ieee.org/abstract/document/7257280/ Solving multi-objective multi-stage weapon target assignment problem via adaptive NSGA-II and adaptive MOEA/D: A comparison study]. 2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015: 3132-3139. \[[papers/2015CEC.pdf pdf]\]
